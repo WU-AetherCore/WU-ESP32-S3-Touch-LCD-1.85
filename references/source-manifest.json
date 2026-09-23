@@ -1,0 +1,316 @@
+{
+  "source": "Local Waveshare ESP32-S3-Touch-LCD-1.85 demo and hardware documents",
+  "files": [
+    {
+      "path": "hardware/board-connections.png",
+      "bytes": 134194,
+      "sha256": "034b28a58fa65a48415cb06cb13d8a29d1886bd6956733c96b35e6b2c75f1217"
+    },
+    {
+      "path": "hardware/ESP32-S3-Touch-LCD-1.85.pdf",
+      "bytes": 286751,
+      "sha256": "2ed85afc5a9368ebfd17185fa220976075c876cea5ab65c95fa30783dfc9b03f"
+    },
+    {
+      "path": "hardware/interface-pinout.png",
+      "bytes": 91540,
+      "sha256": "5a4a2821d10764af69a1a5c25c5ed1ff264a60264c1b000ec9fa93419d2a7566"
+    },
+    {
+      "path": "references/waveshare-demo/Arduino/examples/LVGL_Arduino/Audio_PCM5101.h",
+      "bytes": 644,
+      "sha256": "fa3511de95b375e6bba2092897aab6ace4d7c27216c0d2c98d6e9f83d567d805"
+    },
+    {
+      "path": "references/waveshare-demo/Arduino/examples/LVGL_Arduino/BAT_Driver.h",
+      "bytes": 187,
+      "sha256": "de0fc50cfed33f0eac8989d77d1db4b33f8fc112648774605a574ece3e1cc0b6"
+    },
+    {
+      "path": "references/waveshare-demo/Arduino/examples/LVGL_Arduino/Display_ST77916.h",
+      "bytes": 1973,
+      "sha256": "a071d57111ea981291ad1633a4e9fb0b7ab6a686fe3fe7de29b5e3d3a446144f"
+    },
+    {
+      "path": "references/waveshare-demo/Arduino/examples/LVGL_Arduino/esp_lcd_st77916.c",
+      "bytes": 41602,
+      "sha256": "45ff8a9223460aa053b6916c94d1a46622eda02c19046ce181e49d3c4ff66b22"
+    },
+    {
+      "path": "references/waveshare-demo/Arduino/examples/LVGL_Arduino/esp_lcd_st77916.h",
+      "bytes": 4954,
+      "sha256": "21f444cdc25ed1ceec379fe91fb5fd09d31ef179a946c9a7bd6f67d2e3599bfa"
+    },
+    {
+      "path": "references/waveshare-demo/Arduino/examples/LVGL_Arduino/Gyro_QMI8658.h",
+      "bytes": 5273,
+      "sha256": "5b9c704ede28cb21ce095c3b3586a1b955d14dddbca1579db03381783dae347d"
+    },
+    {
+      "path": "references/waveshare-demo/Arduino/examples/LVGL_Arduino/I2C_Driver.h",
+      "bytes": 309,
+      "sha256": "b05e7ef9378ebec9f9ac4323e88dfa5b08cf358e3f35b14e766c7eaf739c4724"
+    },
+    {
+      "path": "references/waveshare-demo/Arduino/examples/LVGL_Arduino/LVGL_Arduino.ino",
+      "bytes": 1977,
+      "sha256": "d21b5c4ffb05820c5ac804d3eee037857c2d5b1f0baf169e38095144b05817a5"
+    },
+    {
+      "path": "references/waveshare-demo/Arduino/examples/LVGL_Arduino/LVGL_Driver.h",
+      "bytes": 801,
+      "sha256": "0e4d966a108787107cc30d537aded7b5ad70dd093ae801babe18efeae3dece0b"
+    },
+    {
+      "path": "references/waveshare-demo/Arduino/examples/LVGL_Arduino/LVGL_Example.h",
+      "bytes": 378,
+      "sha256": "404dee67e5bebe0302fe55934c8d916fc3f7809f8324571778a10008e784308e"
+    },
+    {
+      "path": "references/waveshare-demo/Arduino/examples/LVGL_Arduino/LVGL_Music.h",
+      "bytes": 2732,
+      "sha256": "626961f6c22a15961c641d52b9b7c541dfc60257cf482c3d8509352e34e04677"
+    },
+    {
+      "path": "references/waveshare-demo/Arduino/examples/LVGL_Arduino/MIC_MSM.h",
+      "bytes": 270,
+      "sha256": "20f1aa3a5bacd6aff330360087a386cc5101bb216cac3da81c30e9d382da9a18"
+    },
+    {
+      "path": "references/waveshare-demo/Arduino/examples/LVGL_Arduino/PWR_Key.h",
+      "bytes": 345,
+      "sha256": "6811e2ef8e6ae29ee793c18e37cd920bcc3782b03d593abe623f289c2b787b6f"
+    },
+    {
+      "path": "references/waveshare-demo/Arduino/examples/LVGL_Arduino/RTC_PCF85063.h",
+      "bytes": 3105,
+      "sha256": "47ef7882bc8b0c43bb51c1ee34f9d660fda5d3a4bec99f0e35bab8300387d249"
+    },
+    {
+      "path": "references/waveshare-demo/Arduino/examples/LVGL_Arduino/SD_Card.h",
+      "bytes": 494,
+      "sha256": "f649a7e8d7c28757262d69d6080cd40d07d80552654c3e2c1e9b35fe7fa36e30"
+    },
+    {
+      "path": "references/waveshare-demo/Arduino/examples/LVGL_Arduino/TCA9554PWR.h",
+      "bytes": 3469,
+      "sha256": "3dd0bf3a9573b51ad5c420334dd43411ea736e0e02917ac4c685d572ee1e6f53"
+    },
+    {
+      "path": "references/waveshare-demo/Arduino/examples/LVGL_Arduino/Touch_CST816.h",
+      "bytes": 1564,
+      "sha256": "c867619370ea24cb8fdd1d358ff629dbe9a9aa34309d3c3bc4592f1b933e3607"
+    },
+    {
+      "path": "references/waveshare-demo/Arduino/examples/LVGL_Arduino/Wireless.h",
+      "bytes": 285,
+      "sha256": "9e571d245cb94fe4a21910328b39de3d5a2c32e1f629251d29c53935a4479fd7"
+    },
+    {
+      "path": "references/waveshare-demo/ESP-IDF/ESP32-S3-Touch-LCD-1.85-Test/CMakeLists.txt",
+      "bytes": 130,
+      "sha256": "5e450030577f792610cee195271f22423ff476818388349a01390bcc10045abd"
+    },
+    {
+      "path": "references/waveshare-demo/ESP-IDF/ESP32-S3-Touch-LCD-1.85-Test/main/Audio_Driver/PCM5101.c",
+      "bytes": 7867,
+      "sha256": "062c6b037f3be2f74ea57e4536bd123768c3cd4dd585b9ebc42ec0028037c6ee"
+    },
+    {
+      "path": "references/waveshare-demo/ESP-IDF/ESP32-S3-Touch-LCD-1.85-Test/main/Audio_Driver/PCM5101.h",
+      "bytes": 1766,
+      "sha256": "e4a4ad023e374a6dbeff892bc28da2448e3bcd23723caca7d7fdbba5e21330c1"
+    },
+    {
+      "path": "references/waveshare-demo/ESP-IDF/ESP32-S3-Touch-LCD-1.85-Test/main/BAT_Driver/BAT_Driver.c",
+      "bytes": 4710,
+      "sha256": "f9d60dfca166a56f7111222389e18ade5baa3bf0c5acb219842f85800e0808ff"
+    },
+    {
+      "path": "references/waveshare-demo/ESP-IDF/ESP32-S3-Touch-LCD-1.85-Test/main/BAT_Driver/BAT_Driver.h",
+      "bytes": 589,
+      "sha256": "85e5783344d1badb2fd45b267555b93756be5417773e377ed5a1ad0cd2b8c2f3"
+    },
+    {
+      "path": "references/waveshare-demo/ESP-IDF/ESP32-S3-Touch-LCD-1.85-Test/main/CMakeLists.txt",
+      "bytes": 1982,
+      "sha256": "d4699a2bd9a25ba61ad18e38e903c5824c945a6249b013f61bcc63f5c87d5729"
+    },
+    {
+      "path": "references/waveshare-demo/ESP-IDF/ESP32-S3-Touch-LCD-1.85-Test/main/EXIO/TCA9554PWR.c",
+      "bytes": 5519,
+      "sha256": "c4bbcda064d7b144654a2bd156b22834736bc5ab782e3a58c423b5eca5d187f8"
+    },
+    {
+      "path": "references/waveshare-demo/ESP-IDF/ESP32-S3-Touch-LCD-1.85-Test/main/EXIO/TCA9554PWR.h",
+      "bytes": 3647,
+      "sha256": "34217dc534c0272dc03fd056283c2fd28527663b89140cb08fc8171a12c293a4"
+    },
+    {
+      "path": "references/waveshare-demo/ESP-IDF/ESP32-S3-Touch-LCD-1.85-Test/main/I2C_Driver/I2C_Driver.c",
+      "bytes": 2041,
+      "sha256": "c4c8536c77b9e985529e2be2a1e1963950547e9dbd0553e4acf191681dce4f0a"
+    },
+    {
+      "path": "references/waveshare-demo/ESP-IDF/ESP32-S3-Touch-LCD-1.85-Test/main/I2C_Driver/I2C_Driver.h",
+      "bytes": 1087,
+      "sha256": "562a216c93bf51efbe04737b5ea4cc95053e30acb8865b95133a00133808da22"
+    },
+    {
+      "path": "references/waveshare-demo/ESP-IDF/ESP32-S3-Touch-LCD-1.85-Test/main/idf_component.yml",
+      "bytes": 162,
+      "sha256": "6cef883c34213aeb0a5e630bea16895beb7b427481f7b8c0a6a3d73fe3a674b6"
+    },
+    {
+      "path": "references/waveshare-demo/ESP-IDF/ESP32-S3-Touch-LCD-1.85-Test/main/LCD_Driver/esp_lcd_st77916/esp_lcd_st77916.c",
+      "bytes": 41602,
+      "sha256": "45ff8a9223460aa053b6916c94d1a46622eda02c19046ce181e49d3c4ff66b22"
+    },
+    {
+      "path": "references/waveshare-demo/ESP-IDF/ESP32-S3-Touch-LCD-1.85-Test/main/LCD_Driver/esp_lcd_st77916/esp_lcd_st77916.h",
+      "bytes": 4954,
+      "sha256": "21f444cdc25ed1ceec379fe91fb5fd09d31ef179a946c9a7bd6f67d2e3599bfa"
+    },
+    {
+      "path": "references/waveshare-demo/ESP-IDF/ESP32-S3-Touch-LCD-1.85-Test/main/LCD_Driver/ST77916.c",
+      "bytes": 15417,
+      "sha256": "48a4ee9a1039e3f5c655e354e60fa867c03564ff95ca170531df0e254ff2e226"
+    },
+    {
+      "path": "references/waveshare-demo/ESP-IDF/ESP32-S3-Touch-LCD-1.85-Test/main/LCD_Driver/ST77916.h",
+      "bytes": 3045,
+      "sha256": "52b0e2edbd903d4cc2484b46a678baee613c89e513424c10d9156df08c280413"
+    },
+    {
+      "path": "references/waveshare-demo/ESP-IDF/ESP32-S3-Touch-LCD-1.85-Test/main/LVGL_Driver/LVGL_Driver.c",
+      "bytes": 5784,
+      "sha256": "0515a597b053e40c4371e347cf36cbb2ef942f0a6119f8e03abff5d2375ec6e0"
+    },
+    {
+      "path": "references/waveshare-demo/ESP-IDF/ESP32-S3-Touch-LCD-1.85-Test/main/LVGL_Driver/LVGL_Driver.h",
+      "bytes": 1082,
+      "sha256": "58c717e3ba1ad6a7011e61a4bafb0a65192e88ecdd19175af26b673eb4d9dcbb"
+    },
+    {
+      "path": "references/waveshare-demo/ESP-IDF/ESP32-S3-Touch-LCD-1.85-Test/main/LVGL_UI/LVGL_Example.c",
+      "bytes": 13895,
+      "sha256": "29cc0fdffe5887bddac767dee5c5b277eaf91b232a68af7fab08d75c8b03e94e"
+    },
+    {
+      "path": "references/waveshare-demo/ESP-IDF/ESP32-S3-Touch-LCD-1.85-Test/main/LVGL_UI/LVGL_Example.h",
+      "bytes": 388,
+      "sha256": "d31bc1b8e83544324361276351c7c7dfe529f816becfce128208cb028b72f511"
+    },
+    {
+      "path": "references/waveshare-demo/ESP-IDF/ESP32-S3-Touch-LCD-1.85-Test/main/LVGL_UI/LVGL_Music.c",
+      "bytes": 42075,
+      "sha256": "36c6470f554b28bb5fb274a68566838fd3615ef8c4958b06844193837530c521"
+    },
+    {
+      "path": "references/waveshare-demo/ESP-IDF/ESP32-S3-Touch-LCD-1.85-Test/main/LVGL_UI/LVGL_Music.h",
+      "bytes": 2221,
+      "sha256": "7aae90af3025cd42e91d24f968a64c370a3976c66da20a08228a6d4db20fdaca"
+    },
+    {
+      "path": "references/waveshare-demo/ESP-IDF/ESP32-S3-Touch-LCD-1.85-Test/main/main.c",
+      "bytes": 1634,
+      "sha256": "29bc1e649657c602791249d6facb1a298f1ee5288be37c9cf74169e94e450f7d"
+    },
+    {
+      "path": "references/waveshare-demo/ESP-IDF/ESP32-S3-Touch-LCD-1.85-Test/main/MIC_Driver/MIC_Speech.c",
+      "bytes": 9534,
+      "sha256": "5ab49523171df2f45beefa9d7dcaff1899b932d2da2241c2028c154b4ba4481f"
+    },
+    {
+      "path": "references/waveshare-demo/ESP-IDF/ESP32-S3-Touch-LCD-1.85-Test/main/MIC_Driver/MIC_Speech.h",
+      "bytes": 1171,
+      "sha256": "dc5936d05e571fa536de84631fc418492b970090f8e4b5719c7710dca54ea9d3"
+    },
+    {
+      "path": "references/waveshare-demo/ESP-IDF/ESP32-S3-Touch-LCD-1.85-Test/main/PCF85063/PCF85063.c",
+      "bytes": 6901,
+      "sha256": "cdd714dfa50fe0979809088de65feac31491d5c0f89f6af6f1e462524e50c75d"
+    },
+    {
+      "path": "references/waveshare-demo/ESP-IDF/ESP32-S3-Touch-LCD-1.85-Test/main/PCF85063/PCF85063.h",
+      "bytes": 2964,
+      "sha256": "a1136e933cdb108d52e652e6cb4c4ab04074ca3d5bfe2d6d9daf8a51584ea70e"
+    },
+    {
+      "path": "references/waveshare-demo/ESP-IDF/ESP32-S3-Touch-LCD-1.85-Test/main/PWR_Key/PWR_Key.c",
+      "bytes": 1479,
+      "sha256": "4668e7760662e9b34c48e426aa437e3a4915f9cb6fbb568092f7e9ff57128555"
+    },
+    {
+      "path": "references/waveshare-demo/ESP-IDF/ESP32-S3-Touch-LCD-1.85-Test/main/PWR_Key/PWR_Key.h",
+      "bytes": 316,
+      "sha256": "68c7cd01b8a0fc50187b57c68d3e1060233185d1c85761a143aa59186efd08b0"
+    },
+    {
+      "path": "references/waveshare-demo/ESP-IDF/ESP32-S3-Touch-LCD-1.85-Test/main/QMI8658/QMI8658.c",
+      "bytes": 8725,
+      "sha256": "82918dbcbd164a2c26b475cf2c3daa811d2ec72136080ed9952da1f05e989d95"
+    },
+    {
+      "path": "references/waveshare-demo/ESP-IDF/ESP32-S3-Touch-LCD-1.85-Test/main/QMI8658/QMI8658.h",
+      "bytes": 5113,
+      "sha256": "3ee12fcda504d1dd958befe1e3e80529c910e6a8944865b99e159865dd3d4a78"
+    },
+    {
+      "path": "references/waveshare-demo/ESP-IDF/ESP32-S3-Touch-LCD-1.85-Test/main/SD_Card/SD_MMC.c",
+      "bytes": 6387,
+      "sha256": "a6aa7c244d75eb7012da75ae8dfd54cd464f7bb5a6af560fc26893ed26dd884b"
+    },
+    {
+      "path": "references/waveshare-demo/ESP-IDF/ESP32-S3-Touch-LCD-1.85-Test/main/SD_Card/SD_MMC.h",
+      "bytes": 976,
+      "sha256": "e0381ddcb05a130b2c620cc856433bd7aa4c1a9db874f6267a13a94507568bf9"
+    },
+    {
+      "path": "references/waveshare-demo/ESP-IDF/ESP32-S3-Touch-LCD-1.85-Test/main/Touch_Driver/CST816.c",
+      "bytes": 8130,
+      "sha256": "a6936799db8da238bed2e68a26843b05fec365f2e62ee4b7601372f9c70e792e"
+    },
+    {
+      "path": "references/waveshare-demo/ESP-IDF/ESP32-S3-Touch-LCD-1.85-Test/main/Touch_Driver/CST816.h",
+      "bytes": 2465,
+      "sha256": "ad4126c597555efaa0671dc29cef2adb3470b6b471691e665f78198737d829bc"
+    },
+    {
+      "path": "references/waveshare-demo/ESP-IDF/ESP32-S3-Touch-LCD-1.85-Test/main/Touch_Driver/esp_lcd_touch/esp_lcd_touch.c",
+      "bytes": 6910,
+      "sha256": "2727b60babfb3c3a9e86b1dcfd769981188b7d84f2c8669930268be6f1aa2d51"
+    },
+    {
+      "path": "references/waveshare-demo/ESP-IDF/ESP32-S3-Touch-LCD-1.85-Test/main/Touch_Driver/esp_lcd_touch/esp_lcd_touch.h",
+      "bytes": 11009,
+      "sha256": "61a7f9a129460038f6bc8c5a2b486bb93d5f4249da9d78721c8e1af6e1b92f3e"
+    },
+    {
+      "path": "references/waveshare-demo/ESP-IDF/ESP32-S3-Touch-LCD-1.85-Test/main/Wireless/Wireless.c",
+      "bytes": 7844,
+      "sha256": "134dd3f9ff5949c244081e7610ffa3bc0a559e1901873e0cf6aca08936b4e12d"
+    },
+    {
+      "path": "references/waveshare-demo/ESP-IDF/ESP32-S3-Touch-LCD-1.85-Test/main/Wireless/Wireless.h",
+      "bytes": 520,
+      "sha256": "3b57b1ae7017e6b12b993aa8f905682e41e32b4aa6ed17a3484941fca1da9d04"
+    },
+    {
+      "path": "references/waveshare-demo/ESP-IDF/ESP32-S3-Touch-LCD-1.85-Test/partitions.csv",
+      "bytes": 360,
+      "sha256": "6f624393444f4706d2be898336cc6040a60ccec3681da00ee92522f1039b2cc3"
+    },
+    {
+      "path": "references/waveshare-demo/ESP-IDF/ESP32-S3-Touch-LCD-1.85-Test/sdkconfig.defaults",
+      "bytes": 17214,
+      "sha256": "b9fddb8fa343cf8df7987d304ba27abe7ed9e42688cdb7cd2c9cc616cc5b498a"
+    },
+    {
+      "path": "references/waveshare-demo/ReadMe.txt",
+      "bytes": 2112,
+      "sha256": "7ece707cbd369f8fe74310aac9d1106a43b8a5fdd5028b5c7b61a88d2a70f6c1"
+    }
+  ],
+  "sanitization": []
+}

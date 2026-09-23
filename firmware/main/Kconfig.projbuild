@@ -1,0 +1,5 @@
+menu "WU_ESP32_S3_1 Configuration"
+
+    # LVGL memory configuration is handled by LVGL component
+
+endmenu

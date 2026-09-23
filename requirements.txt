@@ -1,0 +1,3 @@
+# The firmware build uses the ESP-IDF-managed Python environment.
+# These dependencies are for the optional host serial/media utilities.
+pyserial==3.5

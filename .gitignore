@@ -1,0 +1,28 @@
+# Build products, dependencies and editor state
+**/build/
+**/cmake-build-*/
+**/managed_components/
+**/.idea/
+**/.vscode/
+**/__pycache__/
+**/node_modules/
+*.pyc
+*.log
+sdkconfig.old
+# Credentials, local settings and private recordings
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*secrets*
+*.local.*
+firmware/converted_sd_media/
+firmware/verification/
+sd_song_names.txt
+extra-characters.txt
+*.part
+# Binary releases are built by users, not copied from a device
+*.bin
+*.elf
+*.map
