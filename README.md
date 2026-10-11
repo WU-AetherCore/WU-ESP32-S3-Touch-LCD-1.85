@@ -106,7 +106,7 @@ python firmware/verify_round_ui.py
 
 ## 许可证与第三方声明
 
-本项目新增代码按 MIT 许可证发布；第三方组件继续遵循各自许可证。`references/source-manifest.json` 记录本地资料的来源和 SHA-256。LVGL、ESP-IDF、minimp3、dr_flac、TJpgDec、LodePNG、ESP Audio Player、Helix MP3、ESP-SR 和 Noto Sans CJK 的许可证不可由本项目许可证替代。
+本项目原创代码按 [PolyForm Noncommercial 1.0.0](LICENSE) 许可：允许个人学习、实验、修改和非商业分享；商业用途须事先取得 WU-AetherCore 的书面许可。第三方组件继续遵循各自许可证。`references/source-manifest.json` 记录本地资料的来源和 SHA-256。LVGL、ESP-IDF、minimp3、dr_flac、TJpgDec、LodePNG、ESP Audio Player、Helix MP3、ESP-SR 和 Noto Sans CJK 的许可证不可由本项目许可证替代。此前按 MIT 发布的历史版本及已授予权利不会被本次变更追溯撤销。
 
 ## 隐私与安全
 
